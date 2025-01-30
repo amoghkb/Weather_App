@@ -34,18 +34,3 @@ A fully functional *Weather App* built with *Flutter* and powered by the *OpenWe
 
 This app is designed to be lightweight, efficient, and user-friendly, making weather updates accessible with just a few taps! ☁🌡  
 
-## 📥 Installation
-
-1. Clone the repository:
-   sh
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
-   
-2. Install dependencies:
-   sh
-   flutter pub get
-   
-3. Run the app:
-   sh
-   flutter run
-   
